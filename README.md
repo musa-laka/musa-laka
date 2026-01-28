@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @musa-laka
-- 👀 I’m interested in .data science and artificial intelligence ..
+- 👀 I’m interested in .data engineering and business intelligence  intelligence ..
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .lakabaros100@gmail.com..
